@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning NodeJs, Business Inteligence Analyst
-- 💬 Ask me about ...
-- 📫 How to reach me: <a href="https://fb.com/dbhdtzh">Facebook</a>, 
+- 💬 Ask me about Anything ( Feel Free to Ask )
+- 📫 How to reach me: <a href="https://fb.com/dbhdtzh">Facebook</a>, <a href="https://instagram.com/bangjohn.id">Instagram</a>
 - 😄 Pronouns: BangJohn, John, Bang
 - ⚡ Fun fact: I am a kind person 😈
 
