@@ -5,20 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-<div class="row">
-  <div class="column">
- - 🌱 I’m currently learning NodeJs, Business Inteligence Analyst
+<a href="https://app.daily.dev/bangjohn"><img src="https://api.daily.dev/devcards/127cf1359c3840b5858894b3a49fc462.png?r=45l" width="400" alt="John Krisman's Dev Card"/></a>>
+
+- 🌱 I’m currently learning NodeJs, Business Inteligence Analyst
 - 💬 Ask me about Anything ( Feel Free to Ask )
 - 📫 How to reach me: <a href="https://fb.com/dbhdtzh">Facebook</a>, <a href="https://instagram.com/bangjohn.id">Instagram</a>
 - 😄 Pronouns: BangJohn, John, Bang
 - ⚡ Fun fact: I am a kind person 😈
-    
-    </div>
-  <div class="column">
-  <a href="https://app.daily.dev/bangjohn"><img src="https://api.daily.dev/devcards/127cf1359c3840b5858894b3a49fc462.png?r=45l" width="400" alt="John Krisman's Dev Card"/></a>
-  </div>
-  
-</div>
+
+
+
 
 
 
