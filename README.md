@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<a href="https://app.daily.dev/bangjohn"><img src="https://api.daily.dev/devcards/127cf1359c3840b5858894b3a49fc462.png?r=45l" width="400" alt="John Krisman's Dev Card"/></a>>
+<a href="https://app.daily.dev/bangjohn"><img src="https://api.daily.dev/devcards/127cf1359c3840b5858894b3a49fc462.png?r=45l" width="400" alt="John Krisman's Dev Card"/></a>
 
 - 🌱 I’m currently learning Business Intelligence Analyst, Python, SQL
 - 💬 Ask me about Anything ( Feel Free to Ask )
