@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: BangJohn, John, Bang
 - ⚡ Fun fact: I am a kind person 😈
 
-
+[![@dbhdtzh's Holopin board](https://holopin.io/api/user/board?user=dbhdtzh)](https://holopin.io/@dbhdtzh)
 
 
 
